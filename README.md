@@ -44,11 +44,3 @@ bun start
 ---
 
 **Enjoy generating wallets! 🔐**
-
-```
-
----
-
-Ye file tu `README.md` me daal de ya `CODESPACE_GUIDE.md` bana ke repo me rakh de.  
-Agar CLI version banana hai (command se wallet generate ho), bol de — 4 line me woh bhi ready karwa dunga.
-```
