@@ -1,11 +1,9 @@
-# Octra-x-Earn-By-Abhi
+
 
 ````markdown
 # 🚀 Wallet Generator – GitHub Codespace Quick Setup (Bun)
 
-Follow these 4 simple steps to run the project inside GitHub Codespace.
-
----
+Run this project in GitHub Codespace using just 4 simple steps:
 
 ---
 
@@ -27,7 +25,7 @@ bun install
 
 ---
 
-## 🔹 Step 3: Build Project
+## 🔹 Step 3: Build the Project
 
 ```bash
 bun run build
@@ -41,8 +39,17 @@ bun run build
 bun start
 ```
 
-> ⚠️ After this, open the **"PORTS"** tab in Codespace and click `localhost:8888` to open the app in browser.
+> ✅ After this, click the **“PORTS”** tab in Codespace and open `localhost:8888` in browser.
 
 ---
 
-**Enjoy generating wallets! 🔐**
+**Done! Wallet Generator is live. 🔐**
+
+---
+
+📢 **JOIN TG FOR UPDATES**: [t.me/EarnByAbhi23](https://t.me/EarnByAbhi23)
+
+```
+
+---
+
