@@ -7,6 +7,8 @@ Follow these 4 simple steps to run the project inside GitHub Codespace.
 
 ---
 
+---
+
 ## 🔹 Step 1: Install Bun
 
 ```bash
