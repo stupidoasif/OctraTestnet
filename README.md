@@ -1,9 +1,4 @@
-
-
-````markdown
-# 🚀 Wallet Generator – GitHub Codespace Quick Setup (Bun)
-
-Run this project in GitHub Codespace using just 4 simple steps:
+# STEP BY STEP WALLET GENERATION GUIDE OF OCTRA { CODESPACE }
 
 ---
 
@@ -49,6 +44,5 @@ bun start
 
 📢 **JOIN TG FOR UPDATES**: [t.me/EarnByAbhi23](https://t.me/EarnByAbhi23)
 
-```
 
 
