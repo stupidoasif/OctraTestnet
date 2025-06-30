@@ -81,10 +81,11 @@ Paste your test wallet details (⚠️ never use your real wallet):
 ![Wallet Generation](IMG_20250630_110429.png)
 
 
-```json
+```
 {
-  "address": "0xYourAddressHere",
-  "privateKey": "0xYourPrivateKeyHere"
+  "priv": "B46 private key here",
+  "addr": "octxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "rpc": "https://octra.network"
 }
 ```
 
