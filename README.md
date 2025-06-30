@@ -71,11 +71,7 @@ Create the wallet file:
 cp wallet.json.example wallet.json
 ```
 
-Then open the file:
-
-```bash
-wallet.json
-```
+Then open the file: wallet.json
 
 Paste your test wallet details (⚠️ never use your real wallet):
 ![Wallet Generation](IMG_20250630_110429.png)
@@ -83,7 +79,7 @@ Paste your test wallet details (⚠️ never use your real wallet):
 
 ```
 {
-  "priv": "B64 private key here",
+  "priv": "private key here",
   "addr": "octxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
   "rpc": "https://octra.network"
 }
