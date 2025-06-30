@@ -42,8 +42,6 @@ bun start
 
 ---
 
-📢 **JOIN TG FOR UPDATES**: [t.me/EarnByAbhi23](https://t.me/EarnByAbhi23)
-
 
 Perfect bhai! Ye raha full **`README.md`** file ka content jo tu directly `octra_pre_client` repo me daal sakta hai for Codespaces setup:
 
@@ -66,9 +64,6 @@ In the Codespace terminal, run:
 ```bash
 pip install -r requirements.txt
 ````
-
-✅ This will install all required libraries:
-`aiohttp`, `eth_account`, `web3`, etc.
 
 ---
 
@@ -103,14 +98,9 @@ Paste your test wallet details (⚠️ never use your real wallet):
 python cli.py send --to 0xReceiverAddress --amount 0.01
 ```
 
-🟢 That’s it! The CLI will send the transaction using your test wallet.
+🟢 That’s it! Now you can access th wallet UI & make transactions.
 
 ---
 
-## ⚠️ Notes
-
-* Only use **test wallets**. Never share your mainnet private key.
-* This CLI is for dev/testing purposes only.
-
-
+📢 **JOIN TG FOR UPDATES**: [t.me/EarnByAbhi23](https://t.me/EarnByAbhi23)
 
