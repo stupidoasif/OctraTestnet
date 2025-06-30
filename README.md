@@ -95,7 +95,7 @@ Paste your test wallet details (⚠️ never use your real wallet):
 python cli.py send --to 0xReceiverAddress --amount 0.01
 ```
 
-🟢 That’s it! Now you can access the wallet UI & make transactions.
+🟢 That’s it! You can now access the wallet UI and make transactions to addresses found on the explorer: https://octrascan.io/
 
 ---
 
