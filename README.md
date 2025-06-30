@@ -48,7 +48,7 @@ bun start
 Perfect bhai! Ye raha full **`README.md`** file ka content jo tu directly `octra_pre_client` repo me daal sakta hai for Codespaces setup:
 
 ---
-# 🪙 TASK : TOKEN TRANSFER
+# 🪙 TASK 1 : TOKEN TRANSFER
 
 ### 🔹 STEP 1: Open in Codespace
 
