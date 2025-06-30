@@ -83,7 +83,7 @@ Paste your test wallet details (⚠️ never use your real wallet):
 
 ```
 {
-  "priv": "B46 private key here",
+  "priv": "B64 private key here",
   "addr": "octxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
   "rpc": "https://octra.network"
 }
