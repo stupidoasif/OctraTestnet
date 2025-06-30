@@ -40,7 +40,6 @@ bun start
 
 **Done! Wallet Generator is live. 🔐**
 
----
 
 ---
 # 🪙 TASK 1 : TOKEN TRANSFER
