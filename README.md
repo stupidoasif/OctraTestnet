@@ -74,7 +74,7 @@ cp wallet.json.example wallet.json
 Then open the file:
 
 ```bash
-code wallet.json
+wallet.json
 ```
 
 Paste your test wallet details (⚠️ never use your real wallet):
