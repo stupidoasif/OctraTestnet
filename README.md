@@ -78,6 +78,8 @@ code wallet.json
 ```
 
 Paste your test wallet details (⚠️ never use your real wallet):
+![Wallet Generation](IMG_20250630_110429.png)
+
 
 ```json
 {
