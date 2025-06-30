@@ -42,9 +42,6 @@ bun start
 
 ---
 
-
-Perfect bhai! Ye raha full **`README.md`** file ka content jo tu directly `octra_pre_client` repo me daal sakta hai for Codespaces setup:
-
 ---
 # 🪙 TASK 1 : TOKEN TRANSFER
 
@@ -98,7 +95,7 @@ Paste your test wallet details (⚠️ never use your real wallet):
 python cli.py send --to 0xReceiverAddress --amount 0.01
 ```
 
-🟢 That’s it! Now you can access th wallet UI & make transactions.
+🟢 That’s it! Now you can access the wallet UI & make transactions.
 
 ---
 
