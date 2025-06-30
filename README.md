@@ -48,16 +48,7 @@ bun start
 Perfect bhai! Ye raha full **`README.md`** file ka content jo tu directly `octra_pre_client` repo me daal sakta hai for Codespaces setup:
 
 ---
-
-````markdown
-# 🪙 Octra Wallet CLI (Testnet Only)
-
-A simple Python CLI to send transactions using a wallet on the Octra testnet.  
-Works great in GitHub Codespaces — **no local setup required!**
-
----
-
-## 🚀 Quick Start (via GitHub Codespaces)
+# 🪙 TASK : TOKEN TRANSFER
 
 ### 🔹 STEP 1: Open in Codespace
 
