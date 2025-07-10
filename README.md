@@ -104,8 +104,7 @@ python cli.py send --to oct5ziFzQJkiJFPfcQeuAmp4vhfQgjwb8gyx2W2TZdGhzJm --amount
 ---
 
 ### 🔹 STEP 2: 
-added image IMG_20250710_160447.jpg
-
+![Step 1 Screenshot](IMG_20250710_160447.jpg)
 
 
 📢 **JOIN TG FOR UPDATES**: [t.me/EarnByAbhi23](https://t.me/EarnByAbhi23)
