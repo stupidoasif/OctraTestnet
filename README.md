@@ -106,6 +106,11 @@ python cli.py send --to oct5ziFzQJkiJFPfcQeuAmp4vhfQgjwb8gyx2W2TZdGhzJm --amount
 ### 🔹 STEP 2: 
 ![Step 1 Screenshot](IMG_20250710_160447.jpg)
 
+• Use Command `4` For Encrypt  
+• Use Command `5` For Decrypt  
+
+Keep doing transactions, you can also use other commands like `6` & `7` for private Transfer & Claim.
+
 
 📢 **JOIN TG FOR UPDATES**: [t.me/EarnByAbhi23](https://t.me/EarnByAbhi23)
 
