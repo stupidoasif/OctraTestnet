@@ -96,6 +96,15 @@ python cli.py send --to oct5ziFzQJkiJFPfcQeuAmp4vhfQgjwb8gyx2W2TZdGhzJm --amount
 🟢 That’s it! You can now access the wallet UI and make transactions to addresses found on the explorer: https://octrascan.io/
 
 ---
+---
+# 🪙 TASK 2 : ENCRYPT / DECRYPT BALANCE
+
+### 🔹 STEP 1: Follow Task 1 Steps & Open Wallet UI
+
+---
+
+### 🔹 STEP 2: 
+
 
 📢 **JOIN TG FOR UPDATES**: [t.me/EarnByAbhi23](https://t.me/EarnByAbhi23)
 
