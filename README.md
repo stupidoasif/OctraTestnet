@@ -140,7 +140,8 @@ cd ocs01-test
 cargo build --release
 ```
 ```bash
-cp EI/exec_interface.json 
+# copy contract interface
+cp EI/exec_interface.json .
 ```
 ### 🔹 STEP 3: Create  `wallet.json ` file in ocs01-test
 
