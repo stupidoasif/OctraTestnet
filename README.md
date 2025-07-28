@@ -140,7 +140,22 @@ cd ocs01-test
 cargo build --release
 ```
 ```bash
-cp EI/exec_interface.json .
+cp EI/exec_interface.json 
+```
+### 🔹 STEP 3: Create wallet.json file in ocs01-test
+
+Paste :
+```bash
+{
+  "priv": "0xYOUR_PRIVATE_KEY_HERE",
+  "addr": "0xYOUR_WALLET_ADDRESS_HERE",
+  "rpc": "https://octra.network"
+}
+```
+
+### 🔹 STEP 5: Run Octra Test
+```bash
+./target/release/ocs01-test
 ```
 
 
