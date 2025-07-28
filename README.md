@@ -153,13 +153,18 @@ Paste :
 }
 ```
 
-### 🔹 STEP 5: Run Octra Test
+### 🔹 STEP 4: Run Octra Test
 ```bash
 ./target/release/ocs01-test
 ```
+### 🔹 STEP 5: Run Octra Test
 
+Now Start WIth Command  `3 ` & Till End
 
+🟢 That’s it!
 
+---
+---
 
 📢 **JOIN TG FOR UPDATES**: [t.me/EarnByAbhi23](https://t.me/EarnByAbhi23)
 
