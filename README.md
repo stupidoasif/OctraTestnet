@@ -161,7 +161,7 @@ Paste :
 
 Now Start WIth Command  `3 ` & Till End
 
-![Wallet Generation](Screenshot 2025-07-28 163757.png)
+![Step 5 Screenshot](xyz.png)
 
 🟢 That’s it!
 
