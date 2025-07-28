@@ -122,6 +122,28 @@ Keep doing transactions, you can also use other commands like `6` & `7` for priv
 3. Select → `Open with Codespaces` → `+ New codespace`
 4. Wait for the environment to fully load
 
+### 🔹 STEP 2: In the Codespace terminal, run:
+
+```bash
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+````
+
+```bash
+source $HOME/.cargo/env
+```
+```bash
+
+git clone https://github.com/octra-labs/ocs01-test.git
+cd ocs01-test
+```
+```bash
+cargo build --release
+```
+```bash
+cp EI/exec_interface.json .
+```
+
+
 
 
 📢 **JOIN TG FOR UPDATES**: [t.me/EarnByAbhi23](https://t.me/EarnByAbhi23)
