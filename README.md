@@ -112,6 +112,16 @@ python cli.py send --to oct5ziFzQJkiJFPfcQeuAmp4vhfQgjwb8gyx2W2TZdGhzJm --amount
 Keep doing transactions, you can also use other commands like `6` & `7` for private Transfer & Claim , Use Address From Explorer: https://octrascan.io/
 
 ---
+---
+# 🪙 TASK 3 : Run Ocs01 Test Contract
+
+### 🔹 STEP 1: Open in Codespace
+
+1. Go to 👉 https://github.com/octra-labs/ocs01-test
+2. Click the green `Code` button  
+3. Select → `Open with Codespaces` → `+ New codespace`
+4. Wait for the environment to fully load
+
 
 
 📢 **JOIN TG FOR UPDATES**: [t.me/EarnByAbhi23](https://t.me/EarnByAbhi23)
