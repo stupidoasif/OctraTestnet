@@ -142,7 +142,7 @@ cargo build --release
 ```bash
 cp EI/exec_interface.json 
 ```
-### 🔹 STEP 3: Create wallet.json file in ocs01-test
+### 🔹 STEP 3: Create  `wallet.json ` file in ocs01-test
 
 Paste :
 ```bash
