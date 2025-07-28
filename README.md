@@ -155,7 +155,7 @@ Paste :
 
 ### 🔹 STEP 4: Run Octra Test
 ```bash
-./target/release/ocs01-testd
+./target/release/ocs01-test
 ```
 ### 🔹 STEP 5: Run Octra Test
 
