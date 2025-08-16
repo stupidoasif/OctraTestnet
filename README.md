@@ -1,3 +1,11 @@
+# Octra Explorer
+
+---
+
+https://octrascan.io/
+
+---
+
 # STEP BY STEP WALLET GENERATION GUIDE OF OCTRA { CODESPACE }
 
 ---
